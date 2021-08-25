@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name Airsoft_Bomb-rescue)(type Legacy)(uri ${KIPRJMOD}/Airsoft_Bomb-rescue.lib)(options "")(descr ""))
+)
